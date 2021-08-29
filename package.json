@@ -25,9 +25,7 @@
     "jsonwebtoken": "^8.5.1",
     "morgan": "^1.10.0",
     "pg": "^8.7.1",
-    "superagent": "^6.1.0"
-  },
-  "devDependencies": {
+    "superagent": "^6.1.0",
     "nodemon": "^2.0.12"
   }
 }
